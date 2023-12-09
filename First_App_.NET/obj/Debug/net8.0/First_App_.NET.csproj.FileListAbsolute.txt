@@ -12,3 +12,4 @@ V:\Alura\C#_Net\First_App_.NET\First_App_.NET\obj\Debug\net8.0\refint\First_App_
 V:\Alura\C#_Net\First_App_.NET\First_App_.NET\obj\Debug\net8.0\First_App_.NET.pdb
 V:\Alura\C#_Net\First_App_.NET\First_App_.NET\obj\Debug\net8.0\First_App_.NET.genruntimeconfig.cache
 V:\Alura\C#_Net\First_App_.NET\First_App_.NET\obj\Debug\net8.0\ref\First_App_.NET.dll
+V:\Alura\C#_Net\First_App_.NET\First_App_.NET\obj\Debug\net8.0\First_App_.NET.sourcelink.json
