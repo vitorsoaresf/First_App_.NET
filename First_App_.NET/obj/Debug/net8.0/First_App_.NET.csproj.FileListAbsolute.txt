@@ -1,0 +1,14 @@
+V:\Alura\C#_Net\First_App_.NET\First_App_.NET\bin\Debug\net8.0\First_App_.NET.exe
+V:\Alura\C#_Net\First_App_.NET\First_App_.NET\bin\Debug\net8.0\First_App_.NET.deps.json
+V:\Alura\C#_Net\First_App_.NET\First_App_.NET\bin\Debug\net8.0\First_App_.NET.runtimeconfig.json
+V:\Alura\C#_Net\First_App_.NET\First_App_.NET\bin\Debug\net8.0\First_App_.NET.dll
+V:\Alura\C#_Net\First_App_.NET\First_App_.NET\bin\Debug\net8.0\First_App_.NET.pdb
+V:\Alura\C#_Net\First_App_.NET\First_App_.NET\obj\Debug\net8.0\First_App_.NET.GeneratedMSBuildEditorConfig.editorconfig
+V:\Alura\C#_Net\First_App_.NET\First_App_.NET\obj\Debug\net8.0\First_App_.NET.AssemblyInfoInputs.cache
+V:\Alura\C#_Net\First_App_.NET\First_App_.NET\obj\Debug\net8.0\First_App_.NET.AssemblyInfo.cs
+V:\Alura\C#_Net\First_App_.NET\First_App_.NET\obj\Debug\net8.0\First_App_.NET.csproj.CoreCompileInputs.cache
+V:\Alura\C#_Net\First_App_.NET\First_App_.NET\obj\Debug\net8.0\First_App_.NET.dll
+V:\Alura\C#_Net\First_App_.NET\First_App_.NET\obj\Debug\net8.0\refint\First_App_.NET.dll
+V:\Alura\C#_Net\First_App_.NET\First_App_.NET\obj\Debug\net8.0\First_App_.NET.pdb
+V:\Alura\C#_Net\First_App_.NET\First_App_.NET\obj\Debug\net8.0\First_App_.NET.genruntimeconfig.cache
+V:\Alura\C#_Net\First_App_.NET\First_App_.NET\obj\Debug\net8.0\ref\First_App_.NET.dll
